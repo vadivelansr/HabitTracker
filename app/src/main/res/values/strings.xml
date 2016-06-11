@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="label_habit_count">Count</string>
+    <string name="label_habit_frequency">Frequency</string>
+    <string name="add_habit">No Habit available to display. Click + button below to add a new Habit.</string>
+    <string name="error_enter_habit">Enter new habit</string>
+    <string name="hint_enter_habit">New habit</string>
+    <string name="error_habit_redundancy">Habit already available. Please enter a new Habit.</string>
+    <string name="increment_habit_count">Increment habit count</string>
+    <string name="habit_count">Habit count</string>
+    <string name="habit_frequency">Habit frequency</string>
+    <string name="habit_name">Habit name</string>
+</resources>
